@@ -1,0 +1,14 @@
+C:\Users\maria\Desktop\comando-condicional\bin\Debug\net10.0\comando-condicional.exe
+C:\Users\maria\Desktop\comando-condicional\bin\Debug\net10.0\comando-condicional.deps.json
+C:\Users\maria\Desktop\comando-condicional\bin\Debug\net10.0\comando-condicional.runtimeconfig.json
+C:\Users\maria\Desktop\comando-condicional\bin\Debug\net10.0\comando-condicional.dll
+C:\Users\maria\Desktop\comando-condicional\bin\Debug\net10.0\comando-condicional.pdb
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.AssemblyInfo.cs
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.dll
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\refint\comando-condicional.dll
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.pdb
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\comando-condicional.genruntimeconfig.cache
+C:\Users\maria\Desktop\comando-condicional\obj\Debug\net10.0\ref\comando-condicional.dll
